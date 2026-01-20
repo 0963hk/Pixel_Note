@@ -82,3 +82,15 @@ Pixel Note 采用便携式设计，无需经过传统的安装程序。
 - **Always on Top (窗口置顶)**：
     - 勾选此项，便签将始终悬浮于所有其他应用程序窗口之上，防止被遮挡。
     - 再次点击可取消勾选。
+
+⚠️ 关于 Windows 安全警告 / About Windows Defender Warning
+
+当你首次运行本程序时，Windows 可能会弹出 “Windows 已保护你的电脑” (Windows protected your PC) 的蓝色弹窗。
+
+这是因为本程序是由个人开发者制作的开源软件，没有购买昂贵的数字签名证书（每年需数百美元）。
+
+如何运行 / How to run:
+
+点击弹窗上的 “更多信息” (More info) 文字。
+
+点击下方的 “仍要运行” (Run anyway) 按钮
